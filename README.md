@@ -1,1 +1,1 @@
-# pyrhon_boto3_scripts
+# python_boto3_scripts
